@@ -1,6 +1,6 @@
 # 🎬 Recomendador y Clasificador de Películas — Rotten Tomatoes
 
-**Repositorio:** `ia1-sebastian-recomendacion_peliculas`  
+**Repositorio:** `ia1-sebastianCineasta-recomendador_peliculas`  
 **Curso:** Inteligencia Artificial I — Grupo C2 2026-1  
 **Universidad:** Universidad Industrial de Santander (UIS)  
 **Autor:** Juan Sebastián Puerto Sánchez — Cód. 2224511
