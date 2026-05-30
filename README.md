@@ -21,7 +21,7 @@ responder la pregunta central:
 
 ## 🎥 Video Resumen
 
-> **[⏯ Ver video resumen del proyecto — máx. 5 minutos](#)**  
+> **[⏯ Ver video resumen del proyecto — máx. 5 minutos](https://youtu.be/EHE8VRoKLDk)**  
 > *(Reemplazar `#` con el enlace real al video)*
 
 ---
